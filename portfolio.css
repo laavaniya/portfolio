@@ -6,11 +6,16 @@
 	text-decoration: none;
 }
 
+.centered {
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+}
 
 h1 {
 	font-size: 50px;
 	margin: 5px;
-	font-family: 'Galada', cursive;
+	font-family: @import url('https://fonts.googleapis.com/css?family=Galada');;
 }
 
 h3 {
@@ -20,8 +25,14 @@ h3 {
 nav {
 	padding: 10px;
 	padding-left: 0px;
+    
 }
 
 body {
 	padding: 20px;
+	font-family: arial;
+}
+
+a:hover{
+    background-color: yellow;
 }
