@@ -1,0 +1,56 @@
+	h1 {
+		font-size: 60px;
+		margin: 5px;
+		color: #BD83DB;
+		font-family: 'Poiret One', cursive;
+		font-family: 'Didact Gothic', sans-serif;
+		font-family: 'Julius Sans One', sans-serif;
+		padding-top: 20px;
+		border-bottom: 1px solid #ccc;
+	}
+
+	h2 {
+		color: #8397DB;
+		font-size: 30px;
+		font-family: 'Poiret One', cursive;
+		font-family: 'Didact Gothic', sans-serif;
+		font-family: 'Julius Sans One', sans-serif;
+		font-family: 'Puritan', sans-serif;
+	}
+
+	h3 {
+		color: lightblue;
+		font-size: 30px;
+		font-family: 'Poiret One', cursive;
+		font-family: 'Didact Gothic', sans-serif;
+		font-family: 'Julius Sans One', sans-serif;
+		font-family: 'Puritan', sans-serif;
+	}
+
+	nav {
+		padding: 10px;
+		padding-left: 0px;
+		font-size: 20px;
+		color: #83BBDB;
+		font-family: 'Poiret One', cursive;
+		font-family: 'Didact Gothic', sans-serif;
+		font-family: 'Julius Sans One', sans-serif;
+		font-family: 'Puritan', sans-serif;
+	}
+
+	nav a {
+		border: 2px solid;
+	    border-color: #ccc;
+	    border-radius: 25px;
+	    padding: 10px;
+	    color: #83BBDB;
+	}
+
+	body {
+		padding: 20px;
+		font-family: arial;
+	}
+
+	a:hover{
+	    color: #8C83DB;
+	}
